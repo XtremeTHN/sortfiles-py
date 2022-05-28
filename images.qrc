@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Nuevo proyecto.png</file>
+  </qresource>
+</RCC>
